@@ -4,4 +4,4 @@ What is your favorite color?
 
 Your answer:
 
-
+pink
